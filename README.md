@@ -20,8 +20,9 @@ Meu objetivo é me destacar como um programador de alto nível, contribuindo de 
 ![Miguel Zuqui's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguel-n-zuqui&show_icons=true&theme=transparent)
 
 ## 👉  Onde me encontrar 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-natale-zuqui-182076286/)
 
-- Telefone: (27) 9 9522-1599
-- Email: tiago.sillv@gmail.com
+- Telefone: (27) 99520-3567
+- Email: miguelnatalezuqui@gmail.com
 - Localização: Linhares, ES
