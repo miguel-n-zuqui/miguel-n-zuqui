@@ -1,10 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0700ff&height=120&section=header"/>
+
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Miguel+Zuqui;I'm+18+years+old;I+from+Brasil,+ES;I+study+Desenvolvimento+de+Sistemas;Be+Welcome!+:%29)](https://git.io/typing-svg)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguel-n-zuqui&show_icons=true&theme=tokyonight)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Miguel+Zuqui;I'm+18+years+old;I+from+Brasil,+ES;I+study+Desenvolvimento+de+Sistemas;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/miguel-n-zuqui?cardType=github&theme=github-dark&preferLogin=false&Background=000000&Text=FFFFFFCC&Title=008FFFE1&Border=0A10FF&Ring=0A10FF)](https://git.io/awesome-stats-card)
   <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-n-zuqui&layout=compact&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Duarte Top Languages" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-n-zuqui&layout=compact&hide_border=true&title_color=0700ff&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Duarte Top Languages" />
   </div>
 
   
@@ -14,7 +15,6 @@
 
 ### Studying in this moment:
   
-  ![CyberSecurity](https://img.shields.io/badge/-Cybersecurity-0D1117?style=for-the-badge&logo=Cybersecurity&labelColor=0D1117)&nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp; 
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
@@ -40,5 +40,5 @@
   
   <br>
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0700ff&height=120&section=footer"/>
 </div>
