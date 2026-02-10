@@ -34,11 +34,8 @@
 - Localização: Linhares, ES
 
 <div align="center">
-    <p align="center"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{miguel-n-zuqui}/count.svg" /></p> 
   </div>
   
   <br>
   
-
 </div>
